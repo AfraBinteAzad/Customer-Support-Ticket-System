@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issue",
+    "description": "User unable to login with correct credentials.",
+    "customer": "Alice Johnson",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "9/20/25"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Failure",
+    "description": "Payment gateway showing timeout error during checkout.",
+    "customer": "Michael Smith",
+    "priority": "High Priority",
+    "status": "In-Progress",
+    "createdAt": "9/21/25"
+  },
+  {
+    "id": 1003,
+    "title": "Slow Website",
+    "description": "Pages take too long to load after recent update.",
+    "customer": "Priya Das",
+    "priority": "Medium Priority",
+    "status": "Open",
+    "createdAt": "9/21/25"
+  },
+  {
+    "id": 1004,
+    "title": "Incorrect Invoice",
+    "description": "Invoice total does not match order amount.",
+    "customer": "David Lee",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "9/22/25"
+  },
+  {
+    "id": 1005,
+    "title": "Feature Request",
+    "description": "Customer requested a dark mode option.",
+    "customer": "Sophia Green",
+    "priority": "Low Priority",
+    "status": "In-Progress",
+    "createdAt": "9/22/25"
+  },
+  {
+    "id": 1006,
+    "title": "Refund Query",
+    "description": "User wants to know refund status for order #2331.",
+    "customer": "Carlos Martinez",
+    "priority": "Medium Priority",
+    "status": "In-Progress",
+    "createdAt": "9/23/25"
+  },
+  {
+    "id": 1007,
+    "title": "Account Locked",
+    "description": "Customer locked out after multiple failed logins.",
+    "customer": "Emma Brown",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "9/23/25"
+  },
+  {
+    "id": 1008,
+    "title": "Broken Link",
+    "description": "Support page link leads to 404 error.",
+    "customer": "Noah Wilson",
+    "priority": "Low Priority",
+    "status": "Open",
+    "createdAt": "9/23/25"
+  },
+  {
+    "id": 1009,
+    "title": "Email Notifications Missing",
+    "description": "Order confirmation emails not being sent.",
+    "customer": "Isabella Chen",
+    "priority": "High Priority",
+    "status": "In-Progress",
+    "createdAt": "9/24/25"
+  },
+  {
+    "id": 1010,
+    "title": "App Crash",
+    "description": "Mobile app crashes on startup for Android v14.",
+    "customer": "Liam Patel",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "9/24/25"
+  },
+  {
+    "id": 1011,
+    "title": "Subscription Cancellation",
+    "description": "User unable to cancel monthly subscription.",
+    "customer": "Chloe Nguyen",
+    "priority": "Medium Priority",
+    "status": "In-Progress",
+    "createdAt": "9/24/25"
+  },
+  {
+    "id": 1012,
+    "title": "UI Glitch",
+    "description": "Profile image not updating on dashboard.",
+    "customer": "Ethan Ross",
+    "priority": "Low Priority",
+    "status": "Open",
+    "createdAt": "9/25/25"
+  }
+]
